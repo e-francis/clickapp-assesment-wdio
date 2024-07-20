@@ -62,8 +62,15 @@ This project utilizes tsyringe for dependency injection. It allows you to define
 
 ## Installing the project
 
-1. Clone the project from github using ```git clone https://github.com/e-francis/clickapp-assesment-wdio```
-2. Run `npm install`
+1. Clone the project from github using 
+```
+git clone https://github.com/e-francis/clickapp-assesment-wdio
+
+```
+2. Run 
+```
+npm install
+```
 
 ## Running the Tests
 
